@@ -8,7 +8,7 @@ landing page for the Industry Dive summer intern program
 <br>
 <a href="https://twitter.com/maddydeason" target="_blank">Madeleine Deason</a> (Code, Design, Copy, Research)
 <br>
-<a href="https://twitter.com/goodrichemi" target="_blank">Emily Goodrich</a> (Copy, Research)
+<a href="https://twitter.com/gideonthelast" target="_blank">Gideon Goodrich</a> (Copy, Research)
 <br>
 <a href="https://www.linkedin.com/pub/colin-nally/27/873/a36" target="_blank">Colin Nally</a> (Copy, Research)
 
